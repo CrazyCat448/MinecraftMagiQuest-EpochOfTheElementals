@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "epoch_of_the_elementals:blocks/xarthite_ore_block",
+    "particle": "epoch_of_the_elementals:blocks/xarthite_ore_block"
+  }
+}

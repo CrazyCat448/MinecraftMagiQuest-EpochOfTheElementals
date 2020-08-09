@@ -1,0 +1,36 @@
+{
+  "group": "epoch_of_the_elementals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "epoch_of_the_elementals:xarthite_dust"
+    },
+    "1": {
+      "item": "epoch_of_the_elementals:xarthite_dust"
+    },
+    "2": {
+      "item": "epoch_of_the_elementals:xarthite_dust"
+    },
+    "3": {
+      "item": "epoch_of_the_elementals:xarthite_dust"
+    },
+    "5": {
+      "item": "epoch_of_the_elementals:xarthite_dust"
+    },
+    "6": {
+      "item": "epoch_of_the_elementals:xarthite_dust"
+    },
+    "8": {
+      "item": "epoch_of_the_elementals:xarthite_dust"
+    }
+  },
+  "result": {
+    "item": "epoch_of_the_elementals:xarthite_armor_leggings",
+    "count": 1
+  }
+}

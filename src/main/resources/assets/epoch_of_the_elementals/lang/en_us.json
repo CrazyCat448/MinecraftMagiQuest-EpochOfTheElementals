@@ -1,1 +1,15 @@
-{}
+{
+  "item.epoch_of_the_elementals.xarthite_pickaxe": "Xarthite Pickaxe",
+  "block.epoch_of_the_elementals.xarthite_ore_block": "Block of Xarthite",
+  "item.epoch_of_the_elementals.xarthite_sword": "Xarthite Sword",
+  "item.epoch_of_the_elementals.xarthite_armor_leggings": "Xarthite Leggings",
+  "item.epoch_of_the_elementals.xarthite_hoe": "Xarthite Hoe",
+  "item.epoch_of_the_elementals.xarthite_shovel": "Xarthite Shovel",
+  "item.epoch_of_the_elementals.xarthite_armor_chestplate": "Xarthite Chestplate",
+  "item.epoch_of_the_elementals.xarthite_armor_helmet": "Xarthite Helmet",
+  "block.epoch_of_the_elementals.zelfi_nyllium": "Zelfi Nyllium",
+  "block.epoch_of_the_elementals.xarthite_ore": "Xarthite Ore",
+  "item.epoch_of_the_elementals.xarthite_axe": "Xarthite Axe",
+  "item.epoch_of_the_elementals.xarthite_dust": "Xarthite",
+  "item.epoch_of_the_elementals.xarthite_armor_boots": "Xarthite Boots"
+}

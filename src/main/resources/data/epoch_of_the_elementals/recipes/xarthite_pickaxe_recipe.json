@@ -1,0 +1,30 @@
+{
+  "group": "epoch_of_the_elementals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "epoch_of_the_elementals:xarthite_dust"
+    },
+    "1": {
+      "item": "epoch_of_the_elementals:xarthite_dust"
+    },
+    "2": {
+      "item": "epoch_of_the_elementals:xarthite_dust"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "epoch_of_the_elementals:xarthite_pickaxe",
+    "count": 1
+  }
+}

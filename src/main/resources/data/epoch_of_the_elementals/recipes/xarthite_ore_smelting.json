@@ -1,0 +1,12 @@
+{
+  "group": "epoch_of_the_elementals",
+  "type": "minecraft:smelting",
+  "experience": 1.0499999999999998,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "epoch_of_the_elementals:xarthite_ore"
+  },
+  "result": {
+    "item": "epoch_of_the_elementals:xarthite_dust"
+  }
+}

@@ -1,10 +1,223 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "XarthiteDust",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_dust"
+    },
+    {
+      "name": "XarthiteOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_ore"
+    },
+    {
+      "name": "XarthiteOreBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_ore_block"
+    },
+    {
+      "name": "XarthiteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_ore_block_recipe"
+    },
+    {
+      "name": "XarthiteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_block_ore_recipe"
+    },
+    {
+      "name": "XarthiteOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_ore_smelting"
+    },
+    {
+      "name": "XarthitePickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_pickaxe"
+    },
+    {
+      "name": "XarthiteAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_axe"
+    },
+    {
+      "name": "XarthiteSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_sword"
+    },
+    {
+      "name": "XarthiteShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_shovel"
+    },
+    {
+      "name": "XarthiteHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_hoe"
+    },
+    {
+      "name": "XarthitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_pickaxe_recipe"
+    },
+    {
+      "name": "XarthiteAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_axe_recipe"
+    },
+    {
+      "name": "XarthiteSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_sword_recipe"
+    },
+    {
+      "name": "XarthiteShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_shovel_recipe"
+    },
+    {
+      "name": "XarthiteHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_hoe_recipe"
+    },
+    {
+      "name": "XarthiteArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_armor"
+    },
+    {
+      "name": "XarthiteArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_armor_helmet_recipe"
+    },
+    {
+      "name": "XarthiteArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_armor_body_recipe"
+    },
+    {
+      "name": "XarthiteArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_armor_leggings_recipe"
+    },
+    {
+      "name": "XarthiteArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xarthite_armor_boots_recipe"
+    },
+    {
+      "name": "ZelfiNyllium",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zelfi_nyllium"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.epoch_of_the_elementals.xarthite_pickaxe": "Xarthite Pickaxe",
+      "block.epoch_of_the_elementals.xarthite_ore_block": "Block of Xarthite",
+      "item.epoch_of_the_elementals.xarthite_sword": "Xarthite Sword",
+      "item.epoch_of_the_elementals.xarthite_armor_leggings": "Xarthite Leggings",
+      "item.epoch_of_the_elementals.xarthite_hoe": "Xarthite Hoe",
+      "item.epoch_of_the_elementals.xarthite_shovel": "Xarthite Shovel",
+      "item.epoch_of_the_elementals.xarthite_armor_chestplate": "Xarthite Chestplate",
+      "item.epoch_of_the_elementals.xarthite_armor_helmet": "Xarthite Helmet",
+      "block.epoch_of_the_elementals.zelfi_nyllium": "Zelfi Nyllium",
+      "block.epoch_of_the_elementals.xarthite_ore": "Xarthite Ore",
+      "item.epoch_of_the_elementals.xarthite_axe": "Xarthite Axe",
+      "item.epoch_of_the_elementals.xarthite_dust": "Xarthite",
+      "item.epoch_of_the_elementals.xarthite_armor_boots": "Xarthite Boots"
+    }
   },
   "workspaceSettings": {
     "modid": "epoch_of_the_elementals",

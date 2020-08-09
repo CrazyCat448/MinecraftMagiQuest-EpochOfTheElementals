@@ -1,0 +1,26 @@
+{
+  "group": "epoch_of_the_elementals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "epoch_of_the_elementals:xarthite_dust"
+    },
+    "2": {
+      "item": "epoch_of_the_elementals:xarthite_dust"
+    },
+    "3": {
+      "item": "epoch_of_the_elementals:xarthite_dust"
+    },
+    "5": {
+      "item": "epoch_of_the_elementals:xarthite_dust"
+    }
+  },
+  "result": {
+    "item": "epoch_of_the_elementals:xarthite_armor_boots",
+    "count": 1
+  }
+}

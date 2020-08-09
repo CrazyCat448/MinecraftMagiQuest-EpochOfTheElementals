@@ -1,0 +1,13 @@
+{
+  "group": "epoch_of_the_elementals",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "epoch_of_the_elementals:xarthite_ore_block"
+    }
+  ],
+  "result": {
+    "item": "epoch_of_the_elementals:xarthite_dust",
+    "count": 9
+  }
+}
