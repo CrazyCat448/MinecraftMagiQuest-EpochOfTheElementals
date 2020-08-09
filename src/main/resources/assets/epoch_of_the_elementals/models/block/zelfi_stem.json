@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "epoch_of_the_elementals:blocks/zelfi_stem_top",
+    "up": "epoch_of_the_elementals:blocks/zelfi_stem_top",
+    "north": "epoch_of_the_elementals:blocks/zelfi_stem_side",
+    "east": "epoch_of_the_elementals:blocks/zelfi_stem_side",
+    "south": "epoch_of_the_elementals:blocks/zelfi_stem_side",
+    "west": "epoch_of_the_elementals:blocks/zelfi_stem_side",
+    "particle": "epoch_of_the_elementals:blocks/zelfi_stem_top"
+  }
+}

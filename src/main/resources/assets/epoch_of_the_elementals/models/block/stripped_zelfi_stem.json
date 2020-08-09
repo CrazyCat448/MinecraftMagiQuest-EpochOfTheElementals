@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "epoch_of_the_elementals:blocks/stripped_oak_log_top",
+    "up": "epoch_of_the_elementals:blocks/stripped_oak_log_top",
+    "north": "epoch_of_the_elementals:blocks/stripped_oak_log",
+    "east": "epoch_of_the_elementals:blocks/stripped_oak_log",
+    "south": "epoch_of_the_elementals:blocks/stripped_oak_log",
+    "west": "epoch_of_the_elementals:blocks/stripped_oak_log",
+    "particle": "epoch_of_the_elementals:blocks/stripped_oak_log_top"
+  }
+}
