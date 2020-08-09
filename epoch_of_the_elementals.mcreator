@@ -200,15 +200,6 @@
       "registry_name": "zelfi_nyllium"
     },
     {
-      "name": "ZelfiStem",
-      "type": "block",
-      "sortid": 23,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "zelfi_stem"
-    },
-    {
       "name": "ZelfiFungus",
       "type": "block",
       "sortid": 24,
@@ -218,55 +209,40 @@
       "registry_name": "zelfi_fungus"
     },
     {
-      "name": "ZelfiPlanks",
-      "type": "block",
+      "name": "RockSpirit",
+      "type": "mob",
       "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "zelfi_planks"
+      "registry_name": "rock_spirit"
     },
     {
-      "name": "StrippedZelfiStem",
-      "type": "block",
+      "name": "RoughMysteriousGem",
+      "type": "item",
       "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "stripped_zelfi_stem"
+      "registry_name": "rough_mysterious_gem"
     },
     {
-      "name": "ZelfiStemOnBlockRightClicked",
-      "type": "procedure",
+      "name": "RockSpiritLootTable",
+      "type": "loottable",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rock_spirit_loot_table"
+    },
+    {
+      "name": "ZelfiBiome",
+      "type": "biome",
       "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "zelfi_stem_on_block_right_clicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
+      "registry_name": "zelfi_biome"
     }
   ],
   "variable_elements": [],
@@ -275,19 +251,19 @@
     "en_us": {
       "item.epoch_of_the_elementals.xarthite_pickaxe": "Xarthite Pickaxe",
       "block.epoch_of_the_elementals.xarthite_ore_block": "Block of Xarthite",
-      "block.epoch_of_the_elementals.zelfi_planks": "Zelfi Planks",
-      "item.epoch_of_the_elementals.xarthite_sword": "Xarthite Sword",
-      "block.epoch_of_the_elementals.stripped_zelfi_stem": "Stripped Zelfi Stem",
       "item.epoch_of_the_elementals.xarthite_armor_leggings": "Xarthite Leggings",
-      "block.epoch_of_the_elementals.zelfi_stem": "Zelfi Stem",
-      "item.epoch_of_the_elementals.xarthite_hoe": "Xarthite Hoe",
-      "item.epoch_of_the_elementals.xarthite_shovel": "Xarthite Shovel",
+      "item.epoch_of_the_elementals.rough_mysterious_gem": "Rough Mysterious Gem",
       "item.epoch_of_the_elementals.xarthite_armor_chestplate": "Xarthite Chestplate",
       "item.epoch_of_the_elementals.xarthite_armor_helmet": "Xarthite Helmet",
       "block.epoch_of_the_elementals.zelfi_nyllium": "Zelfi Nyllium",
       "block.epoch_of_the_elementals.zelfi_fungus": "Zelfi Fungus",
       "block.epoch_of_the_elementals.xarthite_ore": "Xarthite Ore",
       "item.epoch_of_the_elementals.xarthite_axe": "Xarthite Axe",
+      "item.epoch_of_the_elementals.xarthite_sword": "Xarthite Sword",
+      "entity.epoch_of_the_elementals.rock_spirit": "Rock Spirit",
+      "item.epoch_of_the_elementals.xarthite_hoe": "Xarthite Hoe",
+      "item.epoch_of_the_elementals.rock_spirit": "Rock Spirit Spawn Egg",
+      "item.epoch_of_the_elementals.xarthite_shovel": "Xarthite Shovel",
       "item.epoch_of_the_elementals.xarthite_dust": "Xarthite",
       "item.epoch_of_the_elementals.xarthite_armor_boots": "Xarthite Boots"
     }
